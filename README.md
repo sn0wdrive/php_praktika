@@ -2,4 +2,4 @@ Rename `App/Database.php.example` to `App/Database.php` and insert DB credential
 
 Serve with "`php -S localhost:8000`"
 
-Live demo at https://praktika.kouno.xyz
+Live demo at http://78.62.60.128:1076/
