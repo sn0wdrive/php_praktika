@@ -1,0 +1,9 @@
+{
+    "autoload": {
+        "name": "Įmonių App",
+        "description": "Įmonių svetainė",
+        "psr-4": {
+            "Imones\\": "app"
+        }
+    }
+}
